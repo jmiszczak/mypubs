@@ -1,0 +1,932 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE publications SYSTEM 'publications.dtd'>
+
+<publications>
+
+<!-- papers -->
+
+<article key="glos18limiting">
+  <authors>
+    <author>A. Glos</author>
+    <author>J.A. Miszczak</author>
+    <author>M. Ostaszewski</author>
+  </authors>
+  <title>Limiting properties of stochastic quantum walks on directed graphs</title>
+  <journal>J. Phys. A: Math. Theor.</journal>
+  <arxiv>1703.01792</arxiv>
+  <doi>10.1088/1751-8121/aa9a4a</doi>
+  <year>2018</year>
+  <pdf-file>https://iitis.pl/~miszczak/files/papers/glos18limiting.pdf</pdf-file>
+</article>
+
+<article key="glos18role">
+  <authors>
+    <author>A. Glos</author>
+    <author>J.A. Miszczak</author>
+  </authors>
+  <title>The role of quantum correlations in Cop and Robber game</title>
+  <journal>Quantum Stud.: Math. Found.</journal>
+  <arxiv>1702.07932</arxiv>
+  <doi>10.1007/s40509-017-0148-4</doi>
+  <year>2018</year>
+  <pdf-file>https://iitis.pl/~miszczak/files/papers/glos18role.pdf</pdf-file>
+</article>
+
+<article key="miszczak17states">
+  <authors>
+    <author>J.A. Miszczak</author>
+  </authors>
+  <title>States and channels in quantum mechanics without complex numbers</title>
+  <journal>Springer Proceedings in Mathematics &amp; Statistics. Proc. of ACA 2015: Applications of Computer Algebra</journal>
+  <volume>198</volume>
+  <pages>305-316</pages>
+  <arxiv>1603.04787</arxiv>
+  <doi>10.1007/978-3-319-56932-1_21</doi>
+  <year>2017</year>
+  <pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak17states.pdf</pdf-file>
+</article>
+
+<article key="puchala17symbolic">
+    <authors>
+	    <author>Z. Puchała</author>
+	    <author>J.A. Miszczak</author>
+    </authors>
+    <title>Symbolic integration with respect to the Haar measure on the unitary group</title>
+    <journal>Bull. Pol. Acad. Sci.-Tech. Sci</journal>
+    <volume>65</volume>
+    <number>1</number>
+    <pages>21</pages>
+    <arxiv>1109.4244</arxiv>
+    <doi>10.1515/bpasts-2017-0003</doi>
+    <year>2017</year>
+    <pdf-file>https://iitis.pl/~miszczak/files/papers/puchala17symbolic.pdf</pdf-file>
+</article>
+
+<article key="sergioli17quantum-inspired">
+  <authors>
+  	<author>G. Sergioli</author>
+  	<author>E. Santucci</author>
+  	<author>L. Didaci</author>
+  	<author>J.A. Miszczak</author>
+	<author>R. Giuntini</author>
+	</authors>
+  <title>A quantum-inspired version of the nearest mean classifier</title>
+  <journal>Soft Computing</journal>
+  <doi>10.1007/s00500-016-2478-2</doi>
+  <arxiv>1603.00173</arxiv>
+  <year>2017</year>
+  <pdf-file>https://iitis.pl/~miszczak/files/papers/sergioli17quantum-inspired.pdf</pdf-file>
+</article>
+
+<article key="sadowski16lively">
+  <authors>
+  	<author>P. Sadowski</author>
+	<author>J.A. Miszczak</author>
+	<author>M. Ostaszewski</author>
+	</authors>
+  <title>Lively quantum walks on cycles</title>
+  <journal>J. Phys. A: Math. Theor.</journal>
+  <volume>49</volume>
+  <number>37</number>
+  <pages>375302</pages>
+  <arxiv>1512.02802</arxiv>
+  <doi>10.1088/1751-8113/49/37/375302</doi>
+  <year>2016</year>
+  <pdf-file>https://iitis.pl/~miszczak/files/papers/sadowski16lively.pdf</pdf-file>
+</article>
+
+<article key="zawadzki16general">
+  <authors>
+    <author>P. Zawadzki</author>
+	<author>J.A. Miszczak</author>
+  </authors>
+  <title>A general scheme for information interception in the ping pong protocol</title>
+  <journal>Advances in Mathematical Physics,</journal>
+  <volume>2016</volume>
+  <pages>3162012</pages>
+  <arxiv>1606.02108</arxiv>
+  <doi>10.1155/2016/3162012</doi>
+  <year>2016</year>
+  <pdf-file>https://iitis.pl/~miszczak/files/papers/zawadzki16general.pdf</pdf-file>
+</article>
+
+<article key="pawela15generalized">
+    <authors>
+	  	<author>Ł. Pawela</author>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>
+		<author>P. Sadowski</author>
+	</authors>
+	<title>Generalized open quantum walks on Apollonian networks</title>
+	<journal>PLoS ONE</journal>
+	<volume>10</volume>
+	<number>7</number>
+	<pages>e0130967</pages>
+	<year>2015</year>
+	<arxiv>1407.1184</arxiv>
+	<doi>10.1371/journal.pone.0130967</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/pawela15generalized.pdf</pdf-file>
+</article>
+
+<article key="miszczak14exploration">
+  <authors>
+	<author>J.A. Miszczak</author>
+	<author>P. Sadowski</author>
+  </authors>
+  <title>Quantum network exploration with a faulty sense of direction</title>
+  <journal>Quantum Information &amp; Computation</journal>
+  <volume>14</volume>
+  <number>13&amp;14</number>
+  <year>2014</year> 
+  <arxiv>1308.5923</arxiv>
+  <pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak14exploration.pdf</pdf-file>
+</article>
+
+<article key="miszczak14general">
+  <authors>
+	<author>J.A. Miszczak</author>
+	<author>Ł. Pawela</author>
+	<author>J. Sładkowski</author>
+  </authors>
+  <title>General model for a entanglement-enhanced composed quantum game on a two-dimensional lattice</title>
+  <journal>Fluctuation and Noise Letters</journal>
+  <volume>13</volume>
+  <number>2</number>
+  <year>2014</year>
+  <arxiv>1306.4506</arxiv>
+  <doi>10.1142/S0219477514500126</doi>
+  <pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak14general.pdf</pdf-file>
+</article>
+
+<article key="mcgettrick14quantum">
+	<authors>
+		<author>M. Mc Gettrick</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Quantum walks with memory on cycles</title>
+	<journal>Physica A</journal>
+	<volume>399</volume>
+	<pages>163-170</pages>
+	<arxiv>1301.2905</arxiv>
+	<year>2014</year>
+	<doi>10.1016/j.physa.2014.01.002</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/mcgettrick14quantum.pdf</pdf-file>
+</article>
+
+
+<article key="miszczak13functional">
+  <authors>
+	<author>J.A. Miszczak</author>
+  </authors>
+  <title>Functional framework for representing and transforming quantum channels</title>
+  <book-title>Proc. Applications of Computer Algebra (ACA2013), Malaga, 2-6 July 2013</book-title>
+  <editors>
+	<editor>J.L. Galan Garcia</editor>
+	<editor>G. Aguilera Venegas</editor>
+	<editor>P. Rodriguez Cielos</editor>
+  </editors>
+  <pages>276-280</pages>
+  <year>2013</year>
+  <arxiv>1307.4906</arxiv>
+  <pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak13functional.pdf</pdf-file>
+</article>
+
+<article key="winiarczyk13analysis">
+  <authors>
+	<author>R. Winiarczyk</author>
+	<author>P. Gawron</author>
+	<author>J.A. Miszczak</author>
+	<author>Ł. Pawela</author>
+	<author>Z. Puchała</author>
+  </authors>
+  <title>Analysis of patent activity in the field of quantum information processing</title>
+  <journal>Int. J. Quantum Inform.</journal> 
+  <volume>11</volume> 
+  <number>01</number>
+  <pages>1350007</pages> 
+  <year>2013</year>
+  <arxiv>1212.2439</arxiv>
+  <doi>10.1142/S021974991350007X</doi>
+  <pdf-file>https://iitis.pl/~miszczak/files/papers/winiarczyk13analysis.pdf</pdf-file>
+</article>
+
+<article key="miszczak13employing">
+	<authors>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Employing online quantum random number generators for generating truly random quantum states in Mathematica</title>
+	<journal>Comput. Phys. Commun.</journal>	
+	<year>2013</year>
+	<volume>184</volume>
+    <number>1</number>
+	<pages>257–258</pages>
+	<doi>10.1016/j.cpc.2012.08.012</doi>
+	<arxiv>1208.3970</arxiv>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak13employing.pdf</pdf-file>
+</article>
+
+<article key="zawadzki13increasing">
+	<authors>
+		<author>P. Zawadzki</author>
+		<author>Z. Puchała</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Increasing the security of the ping-pong protocol by using many mutually unbiased bases</title>
+	<journal>Quantum Inf. Process.</journal>
+	<year>2013</year>
+	<volume>12</volume>
+	<number>1</number>
+	<pages>569-576</pages>
+	<doi>10.1007/s11128-012-0403-x</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/zawadzki13increasing.pdf</pdf-file>
+	<arxiv>1201.3230</arxiv>
+	<times-cited source="jcr"></times-cited>
+	<times-cited source="gs"></times-cited>
+</article>
+
+<article key="puchala12restricted">
+	<authors>
+		<author>Z. Puchała</author>
+		<author>J.A. Miszczak</author>
+		<author>P. Gawron</author>
+		<author>C.F. Dunkl</author>
+		<author>J.A. Holbrook</author>
+		<author>K. Życzkowski</author>
+	</authors>
+	<title>Restricted numerical shadow and geometry of quantum entanglement</title>
+	<journal>J. Phys. A-Math. Theor.</journal>
+	<year>2012</year>
+    <volume>45</volume>
+    <number>41</number>
+    <doi>10.1088/1751-8113/45/41/415309</doi>
+    <pages>415309</pages>
+	<arxiv>1201.2524</arxiv>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/puchala12restricted.pdf</pdf-file>
+	<times-cited source="jcr">1</times-cited>
+	<times-cited source="gs"></times-cited>
+</article>
+
+<article key="miszczak12qubit">
+	<authors>
+		<author>J.A. Miszczak</author>
+		<author>P. Gawron</author>
+		<author>Z. Puchała</author>
+	</authors>
+	<title>Qubit flip game on a Heisenberg spin chain</title>
+	<journal>Quantum Inf. Process.</journal>
+	<year>2012</year>
+	<volume>11</volume>
+	<number>6</number>
+	<pages>1571-1583</pages>
+	<arxiv>1108.0642</arxiv>
+	<doi>10.1007/s11128-011-0322-2</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak12qubit.pdf</pdf-file>
+	<times-cited source="jcr"></times-cited>
+	<times-cited source="gs">1</times-cited>
+</article>
+
+<article key="puchala11probability">
+	<authors>
+		<author>Z. Puchała</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Probability measure generated by the superfidelity</title>
+	<journal>J. Phys. A-Math. Theor.</journal>
+	<volume>44</volume>
+	<number>40</number>
+	<pages>405301</pages>
+	<arxiv>1107.2792</arxiv>
+	<doi>10.1088/1751-8113/44/40/405301</doi>
+	<year>2011</year>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/puchala11probability.pdf</pdf-file>
+	<times-cited source="jcr">2</times-cited>
+	<times-cited source="gs"></times-cited>
+</article>
+
+<article key="gawron11eigengestures">
+	<authors>
+		<author>P. Gawron</author>
+		<author>P. Głomb</author>
+		<author>J.A. Miszczak</author>
+		<author>Z. Puchała</author>
+	</authors>
+	<title>Eigengestures for natural human computer interface</title>
+	<journal>Advances in Intelligent and Soft Computing</journal>
+	<volume>103/2011</volume>
+	<pages>49-56</pages>
+	<year>2011</year>
+	<arxiv>1105.1293</arxiv>
+	<doi>10.1007/978-3-642-23169-8_6</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron11eigengestures.pdf</pdf-file>
+	<times-cited source="jcr"></times-cited>
+	<times-cited source="gs"></times-cited>
+</article>
+
+<article key="miszczak12generating">
+	<authors>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Generating and using truly random quantum states in Mathematica</title>
+	<journal>Comput. Phys. Commun.</journal>
+	<volume>183</volume>
+	<number>1</number>
+	<pages>118-124</pages>
+	<year>2012</year>
+	<arxiv>1102.4598</arxiv>
+	<doi>10.1016/j.cpc.2011.08.002</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak12generating.pdf</pdf-file>
+	<times-cited source="jcr"></times-cited>
+	<times-cited source="gs">1</times-cited>
+</article>
+
+<article key="miszczak11models">
+	<authors>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Models of quantum computation and quantum programming languages</title>
+	<journal>Bull. Pol. Acad. Sci.-Tech. Sci.</journal>
+	<volume>59</volume>
+	<number>3</number>	
+	<pages>305-324</pages>
+	<year>2011</year>
+	<arxiv>1012.6035</arxiv>
+	<doi>10.2478/v10175-011-0039-5</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak11models.pdf</pdf-file>
+	<times-cited source="jcr"></times-cited>
+	<times-cited source="gs">1</times-cited>
+</article>
+
+<article key="miszczak11singular">
+	<authors>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Singular value decomposition and matrix reorderings in quantum information theory</title>
+	<journal>Int. J. Mod. Phys. C</journal>
+	<year>2011</year>
+	<volume>22</volume>
+	<number>9</number>
+	<pages>897-918</pages>
+	<arxiv>1011.1585</arxiv>
+	<doi>10.1142/S0129183111016683</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak11singular.pdf</pdf-file>
+	<times-cited source="jcr">2</times-cited>
+	<times-cited source="gs">3</times-cited>
+</article>
+
+
+<article key="dunkl11numerical">
+	<authors>
+		<author>C.F. Dunkl</author>
+		<author>P. Gawron</author>
+		<author>J.A. Holbrook</author>
+		<author>J.A. Miszczak</author>
+		<author>Z. Puchała</author>
+		<author>K. Życzkowski</author>
+	</authors>
+	<title>Numerical shadow and geometry of quantum states</title>
+	<journal>J. Phys. A-Math. Theor.</journal>
+	<volume>44</volume>
+	<number>33</number>
+	<pages>335301</pages>
+	<year>2011</year>
+	<arxiv>1104.2760</arxiv>
+	<doi>10.1088/1751-8113/44/33/335301</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/dunkl11numerical.pdf</pdf-file>
+	<times-cited source="jcr">2</times-cited>
+	<times-cited source="gs">8</times-cited>
+</article>
+
+
+<article key="puchala11product">
+	<authors>
+		<author>Z. Puchała</author>
+                <author>P. Gawron</author>
+                <author>J.A. Miszczak</author>
+		<author>Ł. Skowronek</author>
+		<author>M.-D. Choi</author>
+		<author>K. Życzkowski</author>
+	</authors>
+	<title>Product numerical range in a space with tensor product structure</title>
+	<journal>Linear Algebra Appl.</journal>
+	<volume>43</volume>
+	<number>1</number>
+	<pages>327-342</pages>
+	<year>2011</year>
+	<arxiv>1008.3482</arxiv>
+	<doi>10.1016/j.laa.2010.08.026</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/puchala11product</pdf-file>
+	<times-cited source="jcr">2</times-cited>
+	<times-cited source="gs">3</times-cited>
+</article>
+
+<article key="puchala11experimentally">
+	<authors>
+                <author>Z. Puchała</author>
+                <author>J.A. Miszczak</author>
+                <author>P. Gawron</author>
+                <author>B. Gardas</author>
+	</authors>
+	<title>Experimentally feasible measures of distance between quantum operations</title>
+	<journal>Quantum Inf. Process.</journal>
+	<volume>10</volume> 
+	<number>1</number>
+	<pages>1-12</pages>
+	<year>2011</year>
+	<arxiv>0911.0567</arxiv>
+	<doi>10.1007/s11128-010-0166-1</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/puchala11experimentally.pdf</pdf-file>
+	<times-cited source="jcr">3</times-cited>
+	<times-cited source="gs">3</times-cited>
+</article>
+
+<article key="gawron10extending">
+	<authors>
+                <author>P. Gawron</author>
+                <author>J. Klamka</author>
+                <author>J.A. Miszczak</author>
+                <author>R. Winiarczyk</author>
+	</authors>
+	<title>Extending scientifc computing system with structural quantum programming capabilities</title>
+	<journal>Bull. Pol. Acad. Sci.-Tech. Sci.</journal>
+	<volume>58</volume> 
+	<number>1</number>
+	<pages>77-88</pages>
+	<year>2010</year>
+	<arxiv>1006.1549</arxiv>
+	<doi>10.2478/v10175-010-0008-4</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron10extending.pdf</pdf-file>
+	<times-cited source="jcr">1</times-cited>
+	<times-cited source="gs">2</times-cited>
+</article>
+
+<article key="gawron10restricted">
+	<authors>
+                <author>P. Gawron</author>
+		<author>Z. Puchała</author>
+                <author>J.A. Miszczak</author>
+		<author>Ł. Skowronek</author>
+		<author>K. Życzkowski</author>
+	</authors>
+	<title>Restricted numerical range: a versatile tool in the theory of quantum information</title>
+	<journal>J. Math. Phys.</journal>
+	<volume>51</volume>
+	<number>10</number>
+	<pages>102204</pages>
+	<year>2010</year>
+	<arxiv>0905.3646</arxiv>
+	<doi>10.1063/1.3496901</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron10restricted.pdf</pdf-file>
+	<times-cited source="jcr">3</times-cited>
+	<times-cited source="gs">3</times-cited>
+</article>
+
+<article key="puchala09bound">
+	<authors>
+		<author>Z. Puchała</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Bound on trace distance based on super-fidelity</title>
+	<journal>Phys. Rev. A</journal>
+	<volume>79</volume>
+	<number>2</number>
+	<pages>024302</pages>
+	<year>2009</year>
+	<doi>10.1103/PhysRevA.79.024302</doi>
+	<arxiv>0811.2323</arxiv>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/puchala09bound.pdf</pdf-file>
+	<times-cited source="jcr">8</times-cited>
+	<times-cited source="gs">5</times-cited>
+</article>
+
+<article key="miszczak09sub">
+	<authors>
+		<author>J.A. Miszczak</author>
+		<author>Z. Puchała</author>
+		<author>P. Horodecki</author>
+		<author>A. Uhlmann</author>
+		<author>K. Życzkowski</author> 
+	</authors>
+	<title>Sub- and super-fidelity as bounds for quantum fidelity</title>
+	<journal>Quantum Inform. Comput.</journal>
+	<year>2009</year>
+	<volume>9</volume>
+	<number>1-2</number>
+	<pages>0103-0130</pages>
+	<arxiv>0805.2037</arxiv>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak09sub.pdf</pdf-file>
+	<times-cited source="jcr">24</times-cited>
+	<times-cited source="gs">28</times-cited>
+</article>
+
+<article key="gawron08noise">
+	<authors>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>
+		<author>J. Sładkowski</author>
+	</authors>
+	<title>Noise Effects in Quantum Magic Squares Game</title>
+	<journal>Int. J. Quantum Inf.</journal>
+	<volume>6</volume>
+	<number>1(Supp.)</number>
+	<pages>667-673</pages>
+	<arxiv>0801.4848</arxiv>
+	<year>2008</year>
+	<doi>10.1142/S0219749908003931</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron08noise.pdf</pdf-file>
+	<times-cited source="jcr">9</times-cited>
+	<times-cited source="gs">14</times-cited>
+</article>
+
+<article key="markham08quantum">
+	<authors>
+		<author>D. Markham</author>
+		<author>J.A. Miszczak</author>
+		<author>Z. Puchała</author>
+		<author>K. Życzkowski</author>
+	</authors>
+	<title>Quantum state discrimination: A geometric approach</title>
+	<journal>Phys. Rev. A</journal>
+	<volume>77</volume>
+	<number>4</number>
+	<year>2008</year>
+	<pages>042111</pages>
+	<arxiv>0711.4286</arxiv>
+	<doi>10.1103/PhysRevA.77.042111</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/markham08quantum.pdf</pdf-file>
+	<times-cited source="jcr">9</times-cited>
+	<times-cited source="gs">10</times-cited>
+</article>
+
+<article key="kosik07quantum">
+	<authors>
+		<author>J. Košík</author>
+		<author>J.A. Miszczak</author>
+		<author>V. Bužek</author>
+	</authors>
+	<title>Quantum Parrondo's game with random strategies</title>
+	<journal>J. Mod. Opt.</journal>
+	<year>2007</year>
+	<volume>54</volume>
+	<number>13</number>
+	<pages>2275-2287</pages>
+	<arxiv>0704.2937</arxiv>
+	<doi>10.1080/09500340701408722</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/kosik07quantum.pdf</pdf-file>
+	<times-cited source="jcr">4</times-cited>
+	<times-cited source="gs">5</times-cited>
+</article>
+
+<article key="gawron07kompilator">
+	<authors>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>
+		<author>R. Winiarczyk</author>
+		<author>P. Wycisk</author>
+	</authors>
+	<title>Kompilator języka QCL - QCL2QML</title>
+	<journal>Studia Informatica (formely Zeszyty Naukowe Politechniki Śląskiej. Seria Informatyka)</journal>
+	<year>2007</year>
+	<volume>28</volume>
+	<number>4</number>
+	<pages>5-18</pages>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron07kompilator.pdf</pdf-file>
+</article>
+
+<article key="gawron05quantum">
+    <authors>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>                                  	
+    </authors>
+	<title>Quantum Implementation of Parrondo Paradox</title>
+	<journal>Fluct. Noise Lett.</journal>
+	<volume>5</volume> 
+	<number>4</number>
+	<pages>L471-L478</pages>
+	<year>2005</year>
+	<arxiv>quant-ph/0502185</arxiv>
+	<doi>10.1142/S0219477505002902</doi>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron05quantum.pdf</pdf-file>
+	<times-cited source="jcr">3</times-cited>
+	<times-cited source="gs">3</times-cited>
+</article>
+
+<article key="gawron05numerical">
+	<authors>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Numerical simulations of mixed state quantum computation</title>
+	<journal>Int. J. Quantum Inf.</journal>
+	<volume>3</volume>
+	<number>1</number> 
+	<pages>195-199</pages>
+	<year>2005</year>
+	<arxiv>quant-ph/0406211</arxiv>
+	<doi>10.1142/S0219749905000748</doi>
+	<times-cited source="jcr">2</times-cited>
+	<times-cited source="gs">5</times-cited>
+</article>
+
+<article key="miszczak05description">
+	<authors>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Description and visualisation of quantum circuits with XML</title>
+	<journal>Theoretical and Applied Informatics (formerly Archiwum Informatyki Teoretycznej i Stosowanej)</journal>
+	<volume>17</volume>
+	<number>4</number>
+	<pages>265-272</pages>
+	<year>2005</year>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak05description.pdf</pdf-file>
+	<times-cited source="jcr"></times-cited>
+	<times-cited source="gs">2</times-cited>
+</article>
+
+<article key="gawron05symulacje">
+	<authors>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Symulacje gier kwantowych</title>
+	<book-title>Wysokowydajne sieci komputerowe</book-title>
+	<editors>
+		<editor>A. Grzywak</editor>
+		<editor>A. Kwiecień</editor>
+	</editors>
+	<year>2005</year>
+</article>
+
+<article key="gawron05symulacyjne">
+	<authors>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Symulacyjne badanie splątania w protokołach kryptograficznych</title>
+	<book-title>Współczesne problemy sieci komputerowych. Nowe technologie</book-title>
+	<editors>
+		<editor>S. Węgrzyn</editor>
+		<editor>B. Pochopień</editor>
+		<editor>T. Czachórski</editor>
+	</editors>
+	<year>2004</year>
+	<pages>95-102</pages>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron04symulacyjne.pdf</pdf-file>
+</article>
+
+<article key="gawron05symulacja">
+	<authors>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Symulacyjne badanie splątania w protokołach kryptograficznych</title>
+	<book-title>Współczesne problemy sieci komputerowych. Nowe technologie</book-title>
+	<editors>
+		<editor>S. Węgrzyn</editor>
+		<editor>B. Pochopień</editor>
+		<editor>T. Czachórski</editor>
+	</editors>
+	<year>2005</year>
+	<pages>69-76</pages>
+	<publisher>Wydawnictwa Komunikacji i Łączności, Warszawa 2005</publisher>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron05symulacja.pdf</pdf-file>
+</article>
+
+<article key="gawron04simulacja">
+	<authors>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Symulacja błędów w kwantowych protokołach wymiany informacji z użyciem pakietu quantum-octave</title>
+	<book-title>Współczesne problemy sieci komputerowych. Nowe technologie.</book-title>
+	<editors>
+		<editor>Stefana Węgrzyn</editor>
+		<editor>Bolesław Pochopień</editor>
+		<editor>Tadeusz Czachórski</editor>
+	</editors>
+	<pages>87-94</pages>
+	<year>2004</year>
+	<publisher>Wydawnictwa Naukowo-Techniczne, Warszawa 2004</publisher>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron04simulacja.pdf</pdf-file>
+	<times-cited source="jcr"></times-cited>
+	<times-cited source="gs">1</times-cited>
+</article>
+
+<article key="gawron04simulations">
+	<authors>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Simulations of quantum systems evolution with quantum-octave package</title>
+	<journal>Annales UMCS Informatica AI</journal>
+	<volume>2</volume>
+	<year>2004</year>
+	<pages>47-56</pages>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron04simulations.pdf</pdf-file>
+	<times-cited source="jcr"></times-cited>
+	<times-cited source="gs">1</times-cited>
+</article>
+
+<article key="gawron04didactic">
+	<authors>
+		<author>P. Gawron</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Didactic tools for teaching quantum informatics</title>
+	<journal>Annales UMCS Informatica AI</journal>
+	<volume>2</volume>
+	<year>2004</year>
+	<pages>453-461</pages>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/gawron04didactic.pdf</pdf-file>
+	<times-cited source="jcr"></times-cited>
+	<times-cited source="gs">1</times-cited>
+</article>
+
+<article key="miszczak03mozliwosci">
+	<authors>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Możliwości przesyłania informacji w sieciach z wykorzystaniem efektów kwantowych</title>
+	<journal>Studia Informatica (formely Zeszyty Naukowe Politechniki Śląskiej. Seria Informatyka)</journal>
+	<volume>24</volume>
+	<number>2A</number>	
+	<pages>87-95</pages>
+	<year>2003</year>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak03mozliwosci.pdf</pdf-file>
+</article>
+
+<article key="bugajski02symulacje">
+	<authors>
+		<author>S. Bugajski</author>
+		<author>J.A. Miszczak</author>
+		<author>Z. Motyka</author>
+	</authors>
+	<title>Symulacje optyczne obliczeń kwantowych</title>
+	<journal>Studia Informatica (formely Zeszyty Naukowe Politechniki Śląskiej. Seria Informatyka)</journal>
+	<volume>43</volume>
+	<number>48 (2A)</number>
+	<pages></pages>
+	<year>2002</year>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/bugajski02symulacje.pdf</pdf-file>
+</article>
+
+<article key="miszczak02efficient">
+	<authors>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Efficient quantum algorithm for factorization</title>
+	<journal>Theoretical and Applied Informatics (formerly Archiwum Informatyki Teoretycznej i Stosowanej)</journal>
+	<volume>14</volume>
+	<number>2</number>
+	<year>2002</year>
+	<pages>117-129</pages>
+	<pdf-file>https://iitis.pl/~miszczak/files/papers/miszczak02efficient.pdf</pdf-file>
+	<times-cited source="jcr"></times-cited>
+	<times-cited source="gs">1</times-cited>
+</article>
+
+<!-- books -->
+
+<book key="miszczak12high-level">
+	<authors>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>High-level structures for quantum computing</title>
+	<publisher>Morgan and Claypool Publishers</publisher>
+	<year>2012</year>
+	<month>May</month>
+	<doi>10.2200/S00422ED1V01Y201205QMC006</doi>
+	<volume>#6</volume>
+	
+<series>Synthesis Lectures on Quantum Computing</series>
+	<isbn></isbn>
+</book>
+
+<book key="wegrzyn04nano">
+	<authors>
+		<author>S. Węgrzyn</author>
+		<author>J. Klamka</author>
+		<author>S. Bugajski</author>
+		<author>M. Gibas</author>
+		<author>R. Winiarczyk</author>
+		<author>L. Znamirowski</author>
+		<author>J.A. Miszczak</author>
+		<author>S. Nowak</author>
+	</authors>
+	<title>Nano i Kwantowe systemy informatyki</title>
+	<publisher>Wydawnictwo Politechniki Śląskiej</publisher>
+	<year>2004</year>
+
+</book>
+
+<book key="wegrzyn03kwantowe">
+	<authors>
+		<author>S. Węgrzyn</author>
+		<author>J. Klamka</author>
+		<author>J.A. Miszczak</author>
+	</authors>
+	<title>Kwantowe systemy informatyki</title>
+	<publisher>Pracownia Komputerowa Jacka Skalmierskiego</publisher>
+	<year>2003</year>
+	<edition>2</edition>
+</book>
+
+<!-- preprints -->
+
+<preprint key="glos18impact">
+  <authors>
+    <author>A. Glos</author>
+    <author>J.A. Miszczak</author>
+  </authors>
+  <title>Impact of the malicious input data modification on the efficiency of quantum algorithms</title>
+  <arxiv>1802.10041</arxiv>
+  <year>2018</year>
+</preprint>
+
+<preprint key="glos17qswalk">
+  <authors>
+    <author>A. Glos</author>
+    <author>J.A. Miszczak</author>
+    <author>M. Ostaszewski</author>
+  </authors>
+  <title>QSWalk.jl: Julia package for quantum stochastic walks analysis</title>
+  <arxiv>1801.01294</arxiv>
+  <year>2018</year>
+</preprint>
+
+<preprint key="cuha06soar">
+  <authors>
+	<author>Manuel Alcino Cunha</author>
+	<author>Vasileios Koutavas</author>
+ 	<author>Ivan Lanese</author>
+	<author>Claudio Antares Mezzina</author>
+	<author>Jarosław Adam Miszczak</author>
+	<author>Rudolf Schlatte</author>
+	<author>Ulrik Pagh Schultz</author>
+	<author>Harun Siljak</author>
+	<author>Michael Kirkedal Thomsen</author>
+	<author>German Vidal</author>
+  </authors>
+  <title>COST Action IC1405: State of the art report Working Group 2: Software and Systems</title>
+  <year>2016</year>
+</preprint>
+
+<preprint key="miszczak15separable">
+  <authors>
+	<author>J.A. Miszczak</author>
+	</authors>
+  <title>Separable and non-separable data representation for pattern discrimination</title>
+  <arxiv>1503.04400</arxiv>
+  <year>2015</year>
+</preprint>
+
+
+<preprint key="miszczak13zeroth">
+    <authors>
+		<author>J.A. Miszczak</author>
+    </authors>
+	<title>0-th quantization or quantum (information) theory in 42 minutes</title>
+	<arxiv>1303.2298</arxiv>
+	<year>2013</year>
+</preprint>
+
+<preprint key="miszczak13randfile">
+	<authors>
+		<author>J.A. Miszczak</author>
+		<author>M. Wahl</author>
+	</authors>
+	<title>RandFile package for Mathematica for accessing file-based sources of randomness</title>
+	<arxiv>1302.2738</arxiv>
+	<year>2013</year>
+</preprint>
+
+<preprint key="miszczak13general">
+	<authors>
+		<author>J.A. Miszczak</author>
+		<author>P. Zawadzki</author>
+	</authors>
+	<title>General method for the security analysis in a quantum direct communication protocol</title>
+	<arxiv>1301.5266</arxiv>
+	<year>2013</year>
+</preprint>
+
+<preprint key="miszczak10design">
+    <authors>
+	    <author>J.A. Miszczak</author>
+	    <author>I. Sobota-Miszczak</author>
+    </authors>
+    <title>Design-on-demand or how to create a target-oriented social web-site</title>
+    <year>2010</year>
+    <arxiv>1010.4934</arxiv>
+</preprint>
+
+<preprint key="bugajski03on-entanglement">
+    <authors>
+	    <author>S. Bugajski</author>
+	    <author>J.A. Miszczak</author>
+    </authors>
+    <title>On entanglement at tripartite states</title>
+    <year>2003</year>
+    <arxiv>quant-ph/0304183</arxiv>
+</preprint>
+
+</publications>

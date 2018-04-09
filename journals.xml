@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE journals SYSTEM "journals.dtd">
+
+<journals>
+
+<!-- template
+
+<journal>
+    <name></name>
+    <iso-name></iso-name>
+    <issn></issn>
+    <impact-factor year="2011"></impact-factor>
+    <impact-factor year="2010"></impact-factor>
+    <impact-factor year="2009"></impact-factor>
+    <impact-factor-5 year="2011"></impact-factor-5>
+    <impact-factor-5 year="2010"></impact-factor-5>
+    <impact-factor-5 year="2009"></impact-factor-5>
+</journal>
+
+-->
+
+<!-- journals -->
+
+<journal>
+    <name>Computer Physics Communications</name>
+    <iso-name>Comput. Phys. Commun.</iso-name>
+    <issn>0010-4655</issn>
+    <impact-factor year="2011">3.268</impact-factor>
+    <impact-factor year="2010">2.300</impact-factor>
+    <impact-factor year="2009">1.958</impact-factor>
+    <impact-factor-5 year="2011">2.812</impact-factor-5>
+    <impact-factor-5 year="2010">2.302</impact-factor-5>
+    <impact-factor-5 year="2009">2.082</impact-factor-5>
+</journal>
+
+<journal>
+    <name>Journal of Mathematical Physics</name>
+    <iso-name>J. Math. Phys.</iso-name>
+    <issn>0022-2488</issn>
+    <impact-factor year="2011">1.291</impact-factor>
+    <impact-factor year="2010">1.291</impact-factor>
+    <impact-factor year="2009">1.318</impact-factor>
+    <impact-factor-5 year="2011">1.181</impact-factor-5>
+    <impact-factor-5 year="2010">1.210</impact-factor-5>
+    <impact-factor-5 year="2009">1.214</impact-factor-5>
+</journal>
+
+<journal>
+    <name>Journal of Physics A-Mathematical and Theoretical</name>
+    <iso-name>J. Phys. A-Math. Theor.</iso-name>
+    <issn>1751-8113</issn>
+    <impact-factor year="2011">1.564</impact-factor>
+    <impact-factor year="2010">1.641</impact-factor>
+    <impact-factor year="2009">1.577</impact-factor>
+    <impact-factor-5 year="2011">1.344</impact-factor-5>
+    <impact-factor-5 year="2010">1.542</impact-factor-5>
+    <impact-factor-5 year="2009">1.572</impact-factor-5>
+</journal>
+
+<journal>
+    <name>Quantum Information Processing</name>
+    <iso-name>Quantum Inf. Process.</iso-name>
+    <issn>1570-0755</issn>
+    <impact-factor year="2011">2.000</impact-factor>
+    <impact-factor year="2010">2.085</impact-factor>
+    <impact-factor year="2009">1.449</impact-factor>
+    <impact-factor-5 year="2011">1.338</impact-factor-5>
+    <impact-factor-5 year="2010">1.606</impact-factor-5>
+    <impact-factor-5 year="2009"></impact-factor-5>
+</journal>
+
+<journal>
+    <name>Bulletin of the Polish Academy of Sciences-Technical Sciences</name>
+    <iso-name>Bull. Pol. Acad. Sci.-Tech. Sci.</iso-name>
+    <issn>0239-7528</issn>
+    <impact-factor year="2011">0.966</impact-factor>
+    <impact-factor year="2010">0.945</impact-factor>
+    <impact-factor year="2009">0.626</impact-factor>
+    <impact-factor-5 year="2011"></impact-factor-5>
+    <impact-factor-5 year="2010"></impact-factor-5>
+    <impact-factor-5 year="2009"></impact-factor-5>
+</journal>
+
+<journal>
+    <name>Linear Algebra and Its Applications</name>
+    <iso-name>Linear Algebra Appl.</iso-name>
+    <issn>0024-3795</issn>
+    <impact-factor year="2011">0.974</impact-factor>
+    <impact-factor year="2010">1.005</impact-factor>
+    <impact-factor year="2009">1.073</impact-factor>
+    <impact-factor-5 year="2011">1.011</impact-factor-5>
+    <impact-factor-5 year="2010">1.068</impact-factor-5>
+    <impact-factor-5 year="2009">1.119</impact-factor-5>
+</journal>
+
+<journal>
+    <name>Quantum Information &amp; Computation</name>
+    <iso-name>Quantum Inform. Comput.</iso-name>
+    <issn>1533-7146</issn>
+    <impact-factor year="2011">1.659</impact-factor>
+    <impact-factor year="2010">1.885</impact-factor>
+    <impact-factor year="2009">2.980</impact-factor>
+    <impact-factor-5 year="2011">2.008</impact-factor-5>
+    <impact-factor-5 year="2010"></impact-factor-5>
+    <impact-factor-5 year="2009"></impact-factor-5>
+</journal>
+
+<journal>
+    <name>International Journal of Quantum Information</name>
+    <iso-name>Int. J. Quantum Inf.</iso-name>
+    <issn>0219-7499</issn>
+    <impact-factor year="2011">0.670</impact-factor>
+    <impact-factor year="2010">0.864</impact-factor>
+    <impact-factor year="2009">0.632</impact-factor>
+    <impact-factor-5 year="2011">0.755</impact-factor-5>
+    <impact-factor-5 year="2010"></impact-factor-5>
+    <impact-factor-5 year="2009"></impact-factor-5>
+</journal>
+
+<journal>
+    <name>International Journal of Modern Physics C</name>
+    <iso-name>Int. J. Mod. Phys. C</iso-name>
+    <issn>0129-1831</issn>
+    <impact-factor year="2011">0.570</impact-factor>
+    <impact-factor year="2010">0.706</impact-factor>
+    <impact-factor year="2009">1.022</impact-factor>
+    <impact-factor-5 year="2011">0.680</impact-factor-5>
+    <impact-factor-5 year="2010">0.753</impact-factor-5>
+    <impact-factor-5 year="2009">0.919</impact-factor-5>
+</journal>
+
+<journal>
+    <name>Journal of Modern Optics</name>
+    <iso-name>J. Mod. Opt.</iso-name>
+    <issn>0950-0340</issn>
+    <impact-factor year="2011">1.170</impact-factor>
+    <impact-factor year="2010">0.988</impact-factor>
+    <impact-factor year="2009">0.942</impact-factor>
+    <impact-factor year="2008">1.062</impact-factor>   
+    <impact-factor year="2007">1.074</impact-factor>    
+    <impact-factor-5 year="2011">0.967</impact-factor-5>
+    <impact-factor-5 year="2010">0.958</impact-factor-5>
+    <impact-factor-5 year="2009">0.931</impact-factor-5>
+</journal>
+
+<journal>
+    <name>Physical Review A</name>
+    <iso-name>Phys. Rev. A</iso-name>
+    <issn>1050-2947</issn>
+    <impact-factor year="2011">2.878</impact-factor>
+    <impact-factor year="2010">2.861</impact-factor>
+    <impact-factor year="2009">2.866</impact-factor>
+    <impact-factor year="2008">2.908</impact-factor>
+    <impact-factor-5 year="2011">2.612</impact-factor-5>
+    <impact-factor-5 year="2010">2.746</impact-factor-5>
+    <impact-factor-5 year="2009">2.895</impact-factor-5>
+    <impact-factor-5 year="2008">2.921</impact-factor-5>
+</journal>
+
+</journals>

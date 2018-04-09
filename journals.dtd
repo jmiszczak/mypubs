@@ -1,0 +1,16 @@
+<!ELEMENT impact-factor ( #PCDATA ) >
+<!ATTLIST impact-factor year ( 2009 | 2010 | 2011 ) #REQUIRED >
+
+<!ELEMENT impact-factor-5 ( #PCDATA ) >
+<!ATTLIST impact-factor-5 year ( 2009 | 2010 | 2011 ) #REQUIRED >
+
+<!ELEMENT iso-name ( #PCDATA ) >
+
+<!ELEMENT issn ( #PCDATA ) >
+
+<!ELEMENT journal ( name, iso-name, issn, impact-factor+, impact-factor-5+ ) >
+
+<!ELEMENT journals ( journal+ ) >
+
+<!ELEMENT name ( #PCDATA ) >
+

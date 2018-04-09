@@ -1,0 +1,52 @@
+<!ELEMENT article ( arxiv | authors | book-title | doi | editors | journal | number | pages | pdf-file | times-cited | title | volume | year )* >
+<!ATTLIST article key ID #REQUIRED >
+
+<!ELEMENT arxiv ( #PCDATA ) >
+
+<!ELEMENT author ( #PCDATA ) >
+
+<!ELEMENT authors ( author+ ) >
+
+<!ELEMENT book ( authors, title, publisher, year, month?, doi?, volume?, series?, isbn?, edition? ) >
+<!ATTLIST book key NMTOKEN #REQUIRED >
+
+<!ELEMENT book-title ( #PCDATA ) >
+
+<!ELEMENT doi ( #PCDATA ) >
+
+<!ELEMENT edition ( #PCDATA ) >
+
+<!ELEMENT editor ( #PCDATA ) >
+
+<!ELEMENT editors ( editor+ ) >
+
+<!ELEMENT isbn EMPTY >
+
+<!ELEMENT journal ( #PCDATA ) >
+
+<!ELEMENT month ( #PCDATA ) >
+
+<!ELEMENT number ( #PCDATA ) >
+
+<!ELEMENT pages ( #PCDATA ) >
+
+<!ELEMENT pdf-file ( #PCDATA ) >
+
+<!ELEMENT preprint ( arxiv | authors | title | year )* >
+<!ATTLIST preprint key NMTOKEN #REQUIRED >
+
+<!ELEMENT publications ( article+, book+, preprint+ ) >
+
+<!ELEMENT publisher ( #PCDATA ) >
+
+<!ELEMENT series ( #PCDATA ) >
+
+<!ELEMENT times-cited ( #PCDATA ) >
+<!ATTLIST times-cited source ( gs | jcr ) #REQUIRED >
+
+<!ELEMENT title ( #PCDATA ) >
+
+<!ELEMENT volume ( #PCDATA ) >
+
+<!ELEMENT year ( #PCDATA ) >
+
