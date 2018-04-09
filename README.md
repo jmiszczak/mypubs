@@ -11,5 +11,8 @@ php bibproc.php publications.xml latex-doc-list.xsl
 ```
 File `index.php` can be used producing HTML list with data from `publications.xml` and displaying them of the personal home page.
 
-
 File `bibtex.php` is used to produce BiBTeX files, used in the list produced by `index.php`.
+
+# Examples
+
+The package is used at http://iitis.pl/~miszczak/papers
