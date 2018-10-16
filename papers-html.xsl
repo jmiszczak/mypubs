@@ -17,7 +17,7 @@
 
 			<xsl:if test="string-length(journal) &gt; 0">
         <xsl:value-of select="journal" />
-        <xsl:text>,</xsl:text> 
+        <xsl:text>, </xsl:text> 
 				<xsl:if test="string-length(volume) &gt; 0">
           <xsl:text>Vol. </xsl:text>
           <xsl:value-of select="volume" />
@@ -39,9 +39,9 @@
 			<xsl:if test="string-length(book-title) &gt; 0">
         <xsl:text>In: </xsl:text>
         <xsl:value-of select="book-title" />
-        <xsl:text>,</xsl:text>
+        <xsl:text>, </xsl:text>
         <xsl:apply-templates select="editors"/>
-        <xsl:text> (eds.),</xsl:text> 
+        <xsl:text> (eds.), </xsl:text> 
 				<xsl:value-of select="year" />
 			</xsl:if>
 
