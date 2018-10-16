@@ -10,8 +10,6 @@
 </head>
 <body>
 
-<?php include_once("../analyticstracking.php") ?>
-
 <h1 class="section">Publications</h1>
 
 <h2 class="section">papers:</h2>
@@ -53,7 +51,7 @@
 </p>
 
 <p>
-<span>&copy; 2005-2017 J.A. Miszczak</span><br />
+<span>&copy; 2005-2018 J.A. Miszczak</span><br />
 <span>Last modification: <?php echo date("d/m/Y", filemtime("index.php") ); ?></span>
 </p>
 
