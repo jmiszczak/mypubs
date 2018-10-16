@@ -22,4 +22,4 @@ File `bibtex.php` is used to produce BiBTeX files, used in the list produced by 
 
 # Examples
 
-The package is used at http://iitis.pl/~miszczak/papers
+The package is used at https://iitis.pl/~miszczak/papers
