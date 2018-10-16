@@ -7,7 +7,7 @@ Package `mypubs` provides XSLT styles, XML schema and PHP processor for personal
 This package can be used off-line for producing list of publication is desired format. The simplest method is to use `xsltproc` tool. In this case produce LaTeX list from data contained in `publications.xml`, by running
 
 ```bash
-xsltproc publications.xml latex-doc-list.xsl
+xsltproc latex-doc-list.xsl publications.xml 
 ```
 
 As the main goal of this software is to produce a web page, it is aslo possible to achive this effect by runing 
